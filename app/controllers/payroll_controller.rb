@@ -5,4 +5,7 @@ class PayrollController < ApplicationController
   def nurse
   end
   
+  def pt
+  end
+  
 end
