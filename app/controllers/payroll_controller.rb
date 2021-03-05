@@ -6,6 +6,7 @@ class PayrollController < ApplicationController
   end
   
   def pt
+    @month = Ho
   end
   
 end
