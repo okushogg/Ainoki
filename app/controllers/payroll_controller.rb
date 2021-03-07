@@ -5,7 +5,7 @@ class PayrollController < ApplicationController
   def nurse
   end
   
-  def pt
+  def phisic
     @month = hogehoge
   end
   
