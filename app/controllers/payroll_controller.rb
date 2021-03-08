@@ -3,6 +3,7 @@ class PayrollController < ApplicationController
   end
   
   def nurse
+    @pay =
   end
   
   def phisic
